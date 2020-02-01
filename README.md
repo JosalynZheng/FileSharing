@@ -1,7 +1,4 @@
-# CSE330
-466949
-
-466838
+# FileSharing
 
 Link to File-Sharing Web:
 http://ec2-18-224-94-64.us-east-2.compute.amazonaws.com/~Josalyn/login_out.php
