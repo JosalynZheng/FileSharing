@@ -1,0 +1,52 @@
+body{
+    background: burlywood;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 100%;
+}
+input[type="text"]{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+input[type="submit"]{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.register{
+    color: #000e8b;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fa{
+    text-align: center;
+    height: 100%;
+}
+.fa:before{
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.centered {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+}
+li a{
+    font-size: 16px;
+    color: #000e8b;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslateblue;
+}
+a{
+    text-align: right;
+    font-size: 20px;
+    color: darkslateblue;
+}
